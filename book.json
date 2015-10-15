@@ -4,7 +4,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": ""
+            "shortName": "taiyang"
         }
     }  
 }
